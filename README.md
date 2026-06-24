@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312E81&height=155&text=Kshitij%20Kataria&fontColor=F9FAFB&fontSize=38&fontAlignY=42&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full-Stack%20Development&descColor=C4B5FD&descSize=17&descAlignY=66)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312E81&height=155&text=Kshitij%20Kataria&fontColor=F9FAFB&fontSize=38&fontAlignY=42&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Back-End%20Development&descColor=C4B5FD&descSize=17&descAlignY=66)
 
 [![B.Tech IT](https://img.shields.io/badge/B.Tech-Information%20Technology-312E81?style=flat-square)](#education)
 [![NSUT](https://img.shields.io/badge/NSUT-CGPA%208.62%2F10-4338CA?style=flat-square)](#education)
